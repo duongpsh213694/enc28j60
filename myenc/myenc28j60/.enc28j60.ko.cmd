@@ -1,0 +1,1 @@
+savedcmd_/home/dell/myenc/myenc28j60/enc28j60.ko := ld -r -EL  -maarch64elf -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o /home/dell/myenc/myenc28j60/enc28j60.ko /home/dell/myenc/myenc28j60/enc28j60.o /home/dell/myenc/myenc28j60/enc28j60.mod.o;  true
